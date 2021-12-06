@@ -1,0 +1,6 @@
+C:\Application\EF Shop\ShopManagment.Domain\bin\Debug\ShopManagment.Domain.dll
+C:\Application\EF Shop\ShopManagment.Domain\bin\Debug\ShopManagment.Domain.pdb
+C:\Application\EF Shop\ShopManagment.Domain\obj\Debug\ShopManagment.Domain.csproj.AssemblyReference.cache
+C:\Application\EF Shop\ShopManagment.Domain\obj\Debug\ShopManagment.Domain.csproj.CoreCompileInputs.cache
+C:\Application\EF Shop\ShopManagment.Domain\obj\Debug\ShopManagment.Domain.dll
+C:\Application\EF Shop\ShopManagment.Domain\obj\Debug\ShopManagment.Domain.pdb

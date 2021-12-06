@@ -1,0 +1,9 @@
+C:\Application\EF Shop\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.csproj.AssemblyReference.cache
+C:\Application\EF Shop\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Application\EF Shop\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.AssemblyInfoInputs.cache
+C:\Application\EF Shop\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.AssemblyInfo.cs
+C:\Application\EF Shop\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.csproj.CoreCompileInputs.cache
+C:\Application\EF Shop\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
+C:\Application\EF Shop\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.MvcApplicationPartsAssemblyInfo.cache
+C:\Application\EF Shop\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.RazorAssemblyInfo.cache
+C:\Application\EF Shop\ServiceHost\obj\Debug\netcoreapp3.1\ServiceHost.RazorAssemblyInfo.cs

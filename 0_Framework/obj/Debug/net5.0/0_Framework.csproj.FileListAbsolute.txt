@@ -1,0 +1,12 @@
+C:\Application\EF Shop\0_Framework\bin\Debug\net5.0\0_Framework.deps.json
+C:\Application\EF Shop\0_Framework\bin\Debug\net5.0\0_Framework.dll
+C:\Application\EF Shop\0_Framework\bin\Debug\net5.0\ref\0_Framework.dll
+C:\Application\EF Shop\0_Framework\bin\Debug\net5.0\0_Framework.pdb
+C:\Application\EF Shop\0_Framework\obj\Debug\net5.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Application\EF Shop\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfoInputs.cache
+C:\Application\EF Shop\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfo.cs
+C:\Application\EF Shop\0_Framework\obj\Debug\net5.0\0_Framework.csproj.CoreCompileInputs.cache
+C:\Application\EF Shop\0_Framework\obj\Debug\net5.0\0_Framework.dll
+C:\Application\EF Shop\0_Framework\obj\Debug\net5.0\ref\0_Framework.dll
+C:\Application\EF Shop\0_Framework\obj\Debug\net5.0\0_Framework.pdb
+C:\Application\EF Shop\0_Framework\obj\Debug\net5.0\0_Framework.csproj.AssemblyReference.cache
